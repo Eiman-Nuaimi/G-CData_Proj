@@ -10,17 +10,11 @@
   <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
   <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
 
-
-
   <link crossorigin="anonymous" media="all" integrity="sha512-FG+rXqMOivrAjdEQE7tO4BwM1poGmg70hJFTlNSxjX87grtrZ6UnPR8NkzwUHlQEGviu9XuRYeO8zH9YwvZhdg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-146fab5ea30e8afac08dd11013bb4ee0.css" />
   
     <link crossorigin="anonymous" media="all" integrity="sha512-8LkbsZMtIzHnYxbSKVW0IeFFJwvb3vgP78G/Q6GrIESfEf/4+2k55PUHcDWZEx4QVNNdsH3ce16qqUBtK4sxzg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-f0b91bb1932d2331e76316d22955b421.css" />
+        
     
-    
-    
-    
-
-
   <meta name="viewport" content="width=device-width">
   
   <title>Coursera-Getting-and-Cleaning-Data-Course-Project/run_analysis.R at master · 9bow/Coursera-Getting-and-Cleaning-Data-Course-Project</title>
@@ -38,11 +32,7 @@
 
   <meta name="request-id" content="ECE9:41C07:112F381:19057B7:5EB675DE" data-pjax-transient="true" /><meta name="html-safe-nonce" content="c87e72757f0a362089d04cd808e0a4019bda5f2e" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS85Ym93L0NvdXJzZXJhLUdldHRpbmctYW5kLUNsZWFuaW5nLURhdGEtQ291cnNlLVByb2plY3QiLCJyZXF1ZXN0X2lkIjoiRUNFOTo0MUMwNzoxMTJGMzgxOjE5MDU3Qjc6NUVCNjc1REUiLCJ2aXNpdG9yX2lkIjoiNjcyMDQyOTYzODUyOTI1NTk5MiIsInJlZ2lvbl9lZGdlIjoiYW1zIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="8161fbf17ae6b7d78652e381661deab9f523b14a4586cb2c46b3b6dc824fbbd8" data-pjax-transient="true" />
 
-
-
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
-
-  
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
